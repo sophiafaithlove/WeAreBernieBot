@@ -1,4 +1,4 @@
-import tweepy  # https://github.com/tweepy/tweepy
+import tweepy  # https://github.com/sophiafaithlove/WeAreBernieBot
 import time
 import csv
 import json
